@@ -2,3 +2,11 @@ h1  {
   color: red;
   text-align: center;
 }
+h2  {
+  color: aqua;
+  font-style: italic;
+  text-align: center;
+}
+body  {
+  background: url("images/mg.jpg");
+}
