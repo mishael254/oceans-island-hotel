@@ -8,5 +8,7 @@ h2  {
   text-align: center;
 }
 body  {
-  background: url("images/mg.jpg");
+  background: url("images/ocean.jpg");
+  color: lightgreen;
+  font-size: 100;
 }
