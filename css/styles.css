@@ -11,3 +11,11 @@ body  {
   background: url("images/ocean.jpg");
   color: lightgreen;
 }
+.check-in {
+  float: right;
+  width: 350px;
+}
+.services {
+  float: right;
+  width: 250px
+}
